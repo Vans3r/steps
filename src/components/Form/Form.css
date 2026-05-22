@@ -1,0 +1,23 @@
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.date {
+    margin-right: 10px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-bottom: 15px;
+}
+
+.form-group div {
+  font-size: 14px;
+  color: #666;
+  font-weight: normal;
+}
