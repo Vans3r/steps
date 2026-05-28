@@ -5,7 +5,7 @@ const Table = ({ data, onDelete }) => {
     <table>
       <thead>
         <tr>
-          <th>Дата (ДД.ММ.ГГ)</th>
+          <th>Дата (гг-мм-дд)</th>
           <th>Пройдено км</th>
           <th>Действия</th>
         </tr>
